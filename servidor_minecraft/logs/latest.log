@@ -1,0 +1,35 @@
+[19:03:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:04:00] [ServerMain/INFO]: Loaded 1407 recipes
+[19:04:00] [ServerMain/INFO]: Loaded 1520 advancements
+[19:04:00] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[19:04:00] [Server thread/INFO]: Loading properties
+[19:04:00] [Server thread/INFO]: Default game type: SURVIVAL
+[19:04:00] [Server thread/INFO]: Generating keypair
+[19:04:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:04:01] [Server thread/INFO]: Using epoll channel type
+[19:04:01] [Server thread/INFO]: Preparing level "world"
+[19:04:02] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:04:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:04:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:04:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:04:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:04:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:04:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:04:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:04:05] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:04:06] [Server thread/INFO]: Time elapsed: 3923 ms
+[19:04:06] [Server thread/INFO]: Done (4.869s)! For help, type "help"
+[19:04:06] [User Authenticator #1/INFO]: UUID of player dhuski is 99c1a6c1-dd92-4d9a-bfea-afe95257bbf3
+[19:04:10] [Server thread/INFO]: dhuski[/127.237.33.59:40349] logged in with entity id 15 at (32.148736349353555, 65.0, -141.3414553946674)
+[19:04:10] [Server thread/INFO]: dhuski joined the game
+[19:04:55] [Server thread/INFO]: [dhuski: Set own game mode to Creative Mode]
+[19:29:31] [Server thread/INFO]: [dhuski: Set own game mode to Survival Mode]
+[19:46:53] [Server thread/INFO]: dhuski lost connection: Disconnected
+[19:46:53] [Server thread/INFO]: dhuski left the game
+[19:47:53] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[19:57:01] [User Authenticator #2/INFO]: UUID of player dhuski is 99c1a6c1-dd92-4d9a-bfea-afe95257bbf3
+[19:57:04] [Server thread/INFO]: dhuski[/127.237.33.59:52287] logged in with entity id 25557 at (7.188326091365244, 82.0, -535.3374409880149)
+[19:57:04] [Server thread/INFO]: dhuski joined the game
+[20:13:10] [Server thread/INFO]: dhuski lost connection: Disconnected
+[20:13:10] [Server thread/INFO]: dhuski left the game
+[20:14:10] [Server thread/INFO]: Server empty for 60 seconds, pausing
